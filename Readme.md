@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/SvgDataAdapterSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SvgDataAdapterSample/MainWindow.xaml))**
+<!-- default file list end -->
 # How to load SVG file content to the Map Control
 
 
